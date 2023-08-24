@@ -1,0 +1,152 @@
+/* HeaderComponent.css */
+header {
+    margin-top: 0%;
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header img {
+    width: 100%;
+    height: 100%;
+    transition: opacity 0.5s ease-in-out;
+}
+
+header img {
+    display: block;
+    margin: 0 auto;
+    position: relative;
+}
+
+/* cards.css */
+.page-container {
+    display: flex;
+    justify-content: center;
+    /* Center horizontally */
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+
+.card-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 6px;
+}
+
+.card {
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease-in-out;
+    position: relative;
+}
+
+.card:hover {
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    background-color: #333;
+}
+
+.card-content {
+    flex: 1;
+}
+
+.view-button {
+    display: none;
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.card:hover .view-button {
+    display: block;
+    background-color: #333;
+}
+
+.view-button button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+    font-size: xxx-large;
+    font-weight: 100;
+}
+
+/*navbar.css*/
+.navbar-nav {
+    margin-left: 70%;
+}
+
+/*Carousel.css */
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    margin: 1rem auto 4rem;
+}
+
+.product--image {
+    width: 100%;
+    height: 16em;
+    object-fit: cover;
+}
+
+.card2 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 320px;
+    margin: auto 1rem;
+    text-align: center;
+    font-family: arial;
+}
+.carousel-container {
+    margin-left: 20px; /* Add your desired left margin */
+    margin-right: 20px; /* Add your desired right margin */
+}
+
+/* Adjust the spacing between carousel items */
+/* You can adjust the width and margin values to match your design */
+.carousel-item-padding-40-px {
+    padding: 0 20px; /* Adjust the spacing between elements */
+}
+
+/*promise*/
+.container_promise{
+    margin-left: 20%;
+    margin-top: 2%;
+}
+.headingPromise{
+    display: flex;
+    justify-content: center;
+    font-size: xxx-large;
+    font-weight: 100;
+    margin-top: 4%;
+}
+
+.headingProffesional{
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    font-weight: bold;
+    margin-top: 4%;
+}
+.joinUs{
+    display: flex;
+    margin-left: 47%;
+    justify-content: center;
+}
