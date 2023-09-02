@@ -1,70 +1,80 @@
-# Getting Started with Create React App
+# Mera-Laundry - Laundry Vendor Company Landing Page
+## Screenshots
+## Laptop View
+![Website Screenshot](https://github.com/Rieyanshi/mera-laundry/blob/main/screenshots/Screenshot%20(431).png)
+![Website Screenshot](https://github.com/Rieyanshi/mera-laundry/blob/main/screenshots/Screenshot%20(432).png)
+![Website Screenshot](https://github.com/Rieyanshi/mera-laundry/blob/main/screenshots/Screenshot%20(433).png)
+![Website Screenshot](https://github.com/Rieyanshi/mera-laundry/blob/main/screenshots/Screenshot%20(434).png)
+![Website Screenshot](https://github.com/Rieyanshi/mera-laundry/blob/main/screenshots/Screenshot%20(435).png)
+![Website Screenshot](https://github.com/Rieyanshi/mera-laundry/blob/main/screenshots/Screenshot%20(436).png)
+![Website Screenshot](https://github.com/Rieyanshi/mera-laundry/blob/main/screenshots/Screenshot%20(437).png)
+![Website Screenshot](https://github.com/Rieyanshi/mera-laundry/blob/main/screenshots/Screenshot%20(438).png)
+![Website Screenshot](https://github.com/Rieyanshi/mera-laundry/blob/main/screenshots/Screenshot%20(439).png)
+![Website Screenshot](https://github.com/Rieyanshi/mera-laundry/blob/main/screenshots/Screenshot%20(440).png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Responsive View
 
-## Available Scripts
+![Mobile Screenshot](https://github.com/Rieyanshi/mera-laundry/blob/main/screenshots/WhatsApp%20Image%202023-09-03%20at%2000.39.45.jpeg)
+![Mobile Screenshot](https://github.com/Rieyanshi/mera-laundry/blob/main/screenshots/WhatsApp%20Image%202023-09-03%20at%2000.39.45%20(1).jpeg)
+![Mobile Screenshot](https://github.com/Rieyanshi/mera-laundry/blob/main/screenshots/WhatsApp%20Image%202023-09-03%20at%2000.39.45%20(2).jpeg)
+![Mobile Screenshot](https://github.com/Rieyanshi/mera-laundry/blob/main/screenshots/WhatsApp%20Image%202023-09-03%20at%2000.39.46.jpeg)
+![Mobile Screenshot](https://github.com/Rieyanshi/mera-laundry/blob/main/screenshots/WhatsApp%20Image%202023-09-03%20at%2000.39.46%20(1).jpeg)
+![Mobile Screenshot](https://github.com/Rieyanshi/mera-laundry/blob/main/screenshots/WhatsApp%20Image%202023-09-03%20at%2000.39.47.jpeg)
+![Mobile Screenshot](https://github.com/Rieyanshi/mera-laundry/blob/main/screenshots/WhatsApp%20Image%202023-09-03%20at%2000.39.48.jpeg)
 
-In the project directory, you can run:
+This repository contains the source code for the Mera-Laundry website, a landing page for laundry vendors company. The website is built using React.js and styled with Bootstrap CSS. It is currently deployed and live at [mera-laundry.com](https://mera-laundry.com).
 
-### `npm start`
+## Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[About](#about) | [Technologies Used](#technologies-used) | [Screenshots](#screenshots) |  [Getting Started](#getting-started) | [Contributing](#contributing) | [License](#license)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## About
 
-### `npm test`
+Mera Laundry is a laundry vendor landing page designed to showcase the services offered by laundry businesses. The website provides essential information to potential customers and encourages them to engage with the business.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies Used
 
-### `npm run build`
+- React.js
+- Bootstrap CSS
+- JSX
+- HTML
+- CSS
+- JavaScript
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Getting Started
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To run this project locally, follow these steps:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone this repository:
 
-### `npm run eject`
+   ```shell
+   git clone https://github.com/your-username/mera-laundry.git
+2. Navigate to the project directory:
+   ```shell
+   cd mera-laundry
+3. Install the project dependencies:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+    ```shell
+    npm install
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+4. Start the development server:
+    
+    ```shell
+    npm start
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Open your web browser and visit http://localhost:3000 to view the website locally.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  Fork the repository.
+  Create a new branch for your feature or bug fix.
+  Make your changes and commit them with clear commit messages.
+  Push your changes to your fork.
+  Create a pull request to the main repository.
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+***
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Rieyanshi Sharma | https://github.com/Rieyanshi
